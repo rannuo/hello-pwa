@@ -1,0 +1,31 @@
+ 
+{
+ 
+  "short_name": "Hello PWA",
+ 
+  "name": "Hello PWA",
+ 
+  "icons": [
+ 
+    {
+ 
+      "src":"icon192x192.png",
+ 
+      "sizes": "192x192",
+ 
+      "type": "image/png"
+ 
+    }
+ 
+  ],
+ 
+  "start_url": "/?utm_source=homescreen",
+ 
+  "background_color": "#000",
+ 
+  "theme_color": "#536878",
+ 
+  "display": "standalone"
+ 
+}
+ 
